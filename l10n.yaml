@@ -1,0 +1,6 @@
+arb-dir: lib/src/l10n
+template-arb-file: app_en.arb
+output-localization-file: formz_validator.dart
+output-class: FormzValidator
+synthetic-package: false
+nullable-getter: false

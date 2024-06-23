@@ -1,0 +1,18 @@
+{
+  "emailEmptyError": "Email cannot be empty",
+  "emailFormatError": "Emails must follow the format 'example@example.com'",
+  "passwordEmptyError": "Password field cannot be empty",
+  "passwordLengthError": "Password must be at least 8 characters long",
+  "passwordUppercaseError": "Password must contain at least one uppercase letter",
+  "passwordLowercaseError": "Password must contain at least one lowercase letter",
+  "passwordNumberError": "Password must contain at least one number",
+  "passwordSpecialCharError": "Password must contain at least one special character",
+  "passwordConfirmationEmptyError": "Confirmation Password field cannot be empty",
+  "passwordConfirmationMismatchError": "Password doesn't match",
+  "phoneEmptyError": "Phone cannot be empty",
+  "phoneShortError": "Invalid Mobile Number",
+  "phoneLongError": "Invalid Mobile Number",
+  "termsUncheckedError": "Please agree to the terms and conditions",
+  "usernameEmptyError": "Name cannot be empty",
+  "usernameInvalidError": "Names must be between 3 and 50 characters long, containing only letters, hyphens, and spaces"
+}
